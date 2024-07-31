@@ -1,0 +1,15 @@
+body{
+    .poppins-bold {
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+      }
+}
+
+
+.banner{
+    background-image: url(/portfolio/css/org11111111.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 0;
+}
